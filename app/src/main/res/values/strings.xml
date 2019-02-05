@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Language Translation 日本語→英語</string>
+  <string name="translation_label">Translation:</string>
+  <string name="translate">translate</string>
+  <string name="input_hint">enter text</string>
+  <string name="target_language">Target Language 翻訳先の言語</string>
+  <string name="english">English</string>
+  <string name="spanish">Spanish</string>
+  <string name="french">French</string>
+  <string name="italian">Italian</string>
+  <string name="microphone">Microphone</string>
+  <string name="play">Play</string>
+</resources>
